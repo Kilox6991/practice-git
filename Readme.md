@@ -1,1 +1,1 @@
-Hola mundo - [Ir a changelog](./CHANGELOG.md)
+Hola mundo (errores corregidos) - [Ir a changelog](./CHANGELOG.md)
